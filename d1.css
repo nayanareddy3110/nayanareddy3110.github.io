@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.boom{
+    background: url(pg1.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.boom h1{
+    font-size: 35px;
+    font-family: cursive;
+    font-display: optional;
+    margin-left:30px;
+}
